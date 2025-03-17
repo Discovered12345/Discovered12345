@@ -1,7 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Andrew(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Andrew(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
-
-
 ![github-header-image](https://github.com/user-attachments/assets/c766cf12-3cbc-4ed0-b9ff-5d663efdf3db)
 
 
