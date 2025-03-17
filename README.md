@@ -6,14 +6,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play ice hockey
   
-##🥇 Achievements
+## 📊 GitHub Stat
 <p>
     <a href="https://vaunt.dev">
         <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
 
-##📊 GitHub Stat
+## 🥇 Achievements
 <p>
     <a href="https://community.vaunt.dev/board/Discovered12345/achievements">
         <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=3" width="350" />
