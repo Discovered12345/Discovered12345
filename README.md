@@ -19,3 +19,10 @@
         <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=3" width="350" />
     </a>
 </p>
+
+Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+
+// Which came first: the chicken or the egg?
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
