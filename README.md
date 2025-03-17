@@ -1,7 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/c766cf12-3cbc-4ed0-b9ff-5d663efdf3db)
 
 
-- 🔭 currently working on Java
 - 🌱 currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play ice hockey
