@@ -19,12 +19,9 @@
     </a>
 </p>
 
-![carbon](https://github.com/user-attachments/assets/b8559e12-b9e7-4049-b2e5-0026fe08ee7f)
 
 World’s oldest question with a single line of JavaScript:
 
 // Which came first: the chicken or the egg?
 
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
-
-Result: ["🐔", "🐣", "🐥", "🥚"];
+![carbon (1)](https://github.com/user-attachments/assets/7b86d48f-debf-4ae4-9d56-e6de1465a868)
