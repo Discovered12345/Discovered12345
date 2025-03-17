@@ -1,6 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/81ca69dd-8fbb-4297-b9b9-e6a1f74a4dc4)
-
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345)
+![github-header-image](https://github.com/user-attachments/assets/3be41c3c-2663-496f-a5dd-fadab0a4f0c6
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Java
