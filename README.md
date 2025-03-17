@@ -18,23 +18,12 @@
 ## 🥇 Achievements
 <p>
     <a href="https://community.vaunt.dev/board/Discovered12345/achievements">
-        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=3" width="350" />
-    </a>
-</p>
-<p>
-    <a href="https://community.vaunt.dev/board/Discovered12345/achievements">
-        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=3" width="350" />
-    </a>
-</p>
-<p>
-    <a href="https://community.vaunt.dev/board/Discovered12345/achievements">
-        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=3" width="350" />
+        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=100" width="350" />
     </a>
 </p>
 
 
-
-World’s oldest question with a single line of JavaScript:
+One of the world’s oldest question with a single line of JavaScript:
 
 // Which came first: the chicken or the egg?
 
