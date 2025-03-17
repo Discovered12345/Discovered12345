@@ -1,4 +1,5 @@
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on Java
