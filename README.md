@@ -24,4 +24,5 @@ World’s oldest question with a single line of JavaScript:
 
 // Which came first: the chicken or the egg?
 
-![carbon (1)](https://github.com/user-attachments/assets/7b86d48f-debf-4ae4-9d56-e6de1465a868)
+![Carbon](https://github.com/user-attachments/assets/6bfad51e-9424-4c94-9b61-b67816432a3e)
+
