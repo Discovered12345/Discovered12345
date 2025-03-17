@@ -4,6 +4,8 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 - 🌱 currently learning Java
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play ice hockey
