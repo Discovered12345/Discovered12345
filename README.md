@@ -2,7 +2,7 @@
     
 ![github-header-image](https://github.com/user-attachments/assets/c766cf12-3cbc-4ed0-b9ff-5d663efdf3db)
 
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/991028855542284288) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Discovered12345) 
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Discovered12345) 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
