@@ -66,20 +66,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<!-- Snake Animation -->
-<div align="center">
-    
-  ![snake gif](https://github.com/Discovered12345/Discovered12345/blob/output/github-snake-dark.svg)
-</div>
-
-
 </div>
