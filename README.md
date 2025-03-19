@@ -43,9 +43,21 @@
 ## 😃 Funny Code
 ![Carbon](https://github.com/user-attachments/assets/5b9d9f04-d3b8-47e1-87ea-1441d47e36b3)
 
+## 😊 Cool Stuff
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
@@ -55,10 +67,6 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Discovered12345/Discovered12345/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+
+
