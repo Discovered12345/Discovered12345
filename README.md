@@ -40,10 +40,7 @@
     </a>
 </p>
 
-
-One of the world’s oldest question with a single line of JavaScript:
-
-
+## 😃 Funny Code
 ![Carbon](https://github.com/user-attachments/assets/5b9d9f04-d3b8-47e1-87ea-1441d47e36b3)
 
 
