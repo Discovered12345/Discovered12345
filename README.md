@@ -2,9 +2,15 @@
     
 ![github-header-image](https://github.com/user-attachments/assets/c766cf12-3cbc-4ed0-b9ff-5d663efdf3db)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&background=2435D700&center=false&vCenter=false&random=true&width=435&lines=A+Software+Developer;A+Freshman;An+Ice+Hockey+Player" alt="Typing SVG" /></a>
+
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Discovered12345) 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- Tech Stack -->
@@ -15,7 +21,7 @@
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Stats -->
 <div align="center">
@@ -31,6 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Discovered12345&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🥇 Achievements
 <p>
@@ -39,8 +46,12 @@
     </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 😃 Funny Code
 ![Carbon](https://github.com/user-attachments/assets/5b9d9f04-d3b8-47e1-87ea-1441d47e36b3)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 😊 Cool Stuff
 
