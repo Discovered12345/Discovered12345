@@ -1,10 +1,15 @@
 <div align="center">
-    
-![image](https://github.com/user-attachments/assets/2ccbad27-2b4c-442d-a14d-239da1edbefa)
- 
-![github-header-image](https://github.com/user-attachments/assets/c766cf12-3cbc-4ed0-b9ff-5d663efdf3db)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&background=2435D700&center=false&vCenter=false&random=true&width=435&lines=A+Software+Developer;A+Freshman;An+Ice+Hockey+Player" alt="Typing SVG" /></a>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/f6a4325e-459a-4772-b155-f838a4500fa1" width="300" alt="Octocat GIF" style="margin-right: 20px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=50&pause=1000&background=2435D700&center=false&vCenter=false&repeat=false&width=500&height=100&lines=Andrew+M" alt="Typing SVG" />
+  </a>
+</div>
+
+ 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&background=2435D700&center=true&vCenter=true&random=true&width=435&lines=A+Software+Developer;A+Freshman;An+Ice+Hockey+Player" alt="Typing SVG" /></a>
 
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Discovered12345) 
 
@@ -50,7 +55,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Beaming%20Face%20With%20Smiling%20Eyes.webp" alt="Beaming Face With Smiling Eyes" width="25" height="25" /> Funny Code
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Beaming%20Face%20With%20Smiling%20Eyes.webp" alt="Beaming Face With Smiling Eyes" width="25" height="25" /> Cool Stuff
 ![Carbon](https://github.com/user-attachments/assets/5b9d9f04-d3b8-47e1-87ea-1441d47e36b3)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
