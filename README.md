@@ -55,10 +55,5 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Beaming%20Face%20With%20Smiling%20Eyes.webp" alt="Beaming Face With Smiling Eyes" width="25" height="25" /> Cool Stuff
-![Carbon](https://github.com/user-attachments/assets/5b9d9f04-d3b8-47e1-87ea-1441d47e36b3)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
