@@ -1,26 +1,31 @@
-<div align="center">
 
+  
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/f6a4325e-459a-4772-b155-f838a4500fa1" width="300" alt="Octocat GIF" style="margin-right: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=50&pause=1000&background=2435D700&center=false&vCenter=false&repeat=false&width=500&height=100&lines=Andrew+M" alt="Typing SVG" />
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  
 <a href="https://app.daily.dev/andrewma"><img src="https://api.daily.dev/devcards/v2/dup6YE036HUpDsHygeXyu.png?type=default&r=wii" width="356" alt="Andrew M's Dev Card" align="right"/></a>
- 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&background=2435D700&center=true&vCenter=true&random=true&width=435&lines=A+Software+Developer;A+Freshman;An+Ice+Hockey+Player" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&background=2435D700&center=false&vCenter=false&random=true&width=435&lines=A+Software+Developer;A+Freshman;An+Ice+Hockey+Player" alt="Typing SVG" /></a>
 
+<div align="left">
+
+**I'm a passionate and driven developer with a strong interest in building innovative solutions through code. As a rising sophomore at Tesla STEM High School, I’m constantly exploring new technologies and expanding my skill set across a wide range of programming languages and platforms. Whether it’s creating web applications, mobile apps, or experimenting with cutting-edge tech, I find immense joy in bringing ideas to life through software development. Outside the classroom, I’m an active member of the 18U A3 Sno-King Hockey team. Hockey has taught me perseverance, leadership, and the importance of collaboration—qualities that I bring to every project I work on. Whether I’m writing code, skating on the rink, or diving into a new tech trend, I’m always looking for opportunities to grow, challenge myself, and make a meaningful impact.**
+
+</div>
+  
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/glitchedsignal)
 
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <!-- Tech Stack -->
 <div align="center">
@@ -32,30 +37,32 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Stats -->
-<div align="center">
-    
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Discovered12345&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Discovered12345&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Discovered12345&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
+<div align="left">
+<details>
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Stats</summary>
+<div align="left">
+  
+  ![Andrew's Stats](https://github-readme-stats.vercel.app/api?username=Discovered12345&show_icons=true&theme=transparent)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Discovered12345&layout=compact)
 </div>
+</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" /> Achievements
+<details> 
+  <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" /> Achievements</summary>
+
 <p>
     <a href="https://community.vaunt.dev/board/Discovered12345/achievements">
         <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/achievements?format=svg&limit=100" width="350" />
     </a>
 </p>
-
+</details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
+</div>
+
+
 
