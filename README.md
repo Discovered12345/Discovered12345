@@ -7,13 +7,10 @@
   </a>
 </div>
 
-<--
-<!-- markdownlint-disable MD033 -->
-<a href="https://app.daily.dev/warengonzaga">
+
+<!-- <a href="https://app.daily.dev/warengonzaga">
     <img src="https://api.daily.dev/devcards/v2/5dwfVl5B1.png?type=default&r=c16" style="min-width: 200px; max-width: 250px; width: 30%" alt="Waren Gonzaga's Dev Card" align="right"/>
-</a>
-<!-- markdownlint-enable MD033 -->
--->
+</a> -->
  
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&background=2435D700&center=true&vCenter=true&random=true&width=435&lines=A+Software+Developer;A+Freshman;An+Ice+Hockey+Player" alt="Typing SVG" /></a>
