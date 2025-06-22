@@ -1,5 +1,3 @@
-
-  
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=50&pause=1000&background=2435D700&center=false&vCenter=false&repeat=false&width=500&height=100&lines=Andrew+M" alt="Typing SVG" />
