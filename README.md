@@ -23,7 +23,7 @@
 
 [![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true)
 
-<a href="https://gitroll.io/profile/uhflzEggAGjWRfgdbU8KMQYp2wBo2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhflzEggAGjWRfgdbU8KMQYp2wBo2?theme=light" alt="GitRoll Profile Badge"/></a>
+<--<a href="https://gitroll.io/profile/uhflzEggAGjWRfgdbU8KMQYp2wBo2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhflzEggAGjWRfgdbU8KMQYp2wBo2?theme=light" alt="GitRoll Profile Badge"/></a>-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
