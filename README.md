@@ -13,7 +13,7 @@
 
 <div align="left">
 
-**I'm a passionate and driven developer with a strong interest in building innovative solutions through code. As a rising sophomore at Tesla STEM High School, I’m constantly exploring new technologies and expanding my skill set across a wide range of programming languages and platforms. Whether it’s creating web applications, mobile apps, or experimenting with cutting-edge tech, I find immense joy in bringing ideas to life through software development. Outside the classroom, I’m an active member of the 18U A3 Sno-King Hockey team. Hockey has taught me perseverance, leadership, and the importance of collaboration—qualities that I bring to every project I work on. Whether I’m writing code, skating on the rink, or diving into a new tech trend, I’m always looking for opportunities to grow, challenge myself, and make a meaningful impact.**
+**I'm a passionate and driven developer with a strong interest in building innovative solutions through code. As a sophomore at Tesla STEM High School, I’m constantly exploring new technologies and expanding my skill set across a wide range of programming languages and platforms. I love creating web applications, mobile apps, or experimenting with cutting-edge tech, and outside the classroom, I’m an active member for Sno-King Ice Hockey. Hockey has taught me perseverance, leadership, and the importance of collaboration—qualities that I bring to every project I work on. Whether I’m writing code, skating on the rink, or diving into a new tech trend, I’m always looking for opportunities to grow, challenge myself, and make a meaningful impact.**
 
 </div>
   
