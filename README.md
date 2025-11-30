@@ -17,7 +17,7 @@
 
 </div>
   
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/glitchedsignal)
+[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/andrew.m_91)
 
 [![nominate](https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
 
