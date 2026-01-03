@@ -14,7 +14,7 @@
 <div align="left">
 
 **I'm a passionate and driven developer with a strong interest in building innovative solutions through code. As a sophomore at Tesla STEM High School, I’m constantly exploring new technologies and expanding my skill set across a wide range of programming languages and platforms. I love creating web applications, mobile apps, or experimenting with cutting-edge tech, and outside the classroom, I’m an active member for Sno-King Ice Hockey. Hockey has taught me perseverance, leadership, and the importance of collaboration—qualities that I bring to every project I work on. Whether I’m writing code, skating on the rink, or diving into a new tech trend, I’m always looking for opportunities to grow, challenge myself, and make a meaningful impact.**
-
+<!-- https://skillicons.dev/ -->
 </div>
   
 [![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/andrew.m_91)
