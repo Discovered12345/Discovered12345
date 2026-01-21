@@ -6,8 +6,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
-<a href="https://app.daily.dev/andrewma"><img src="https://api.daily.dev/devcards/v2/dup6YE036HUpDsHygeXyu.png?type=default&r=wii" width="356" alt="Andrew M's Dev Card" align="right"/></a>
+
+<!-- <a href="https://app.daily.dev/andrewma"><img src="https://api.daily.dev/devcards/v2/dup6YE036HUpDsHygeXyu.png?type=default&r=wii" width="356" alt="Andrew M's Dev Card" align="right"/></a> -->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&background=2435D700&center=false&vCenter=false&random=true&width=435&lines=Software+Developer;Sophomore;Ice+Hockey+Player" alt="Typing SVG" /></a>
 
