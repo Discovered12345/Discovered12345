@@ -16,34 +16,41 @@
 <!-- https://skillicons.dev/ -->
 </div>
 
-<table width="100%">
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 1200px;">
   <tr>
-    <!-- LEFT CONTENT -->
-    <td width="75%" valign="top">
-      <a href="https://community.vaunt.dev/board/Discovered12345">
-        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community">
-      </a>
-      <a href="https://discordapp.com/users/991028855542284288">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
-      </a>
-      <a href="https://instagram.com/andrew.m_91">
-        <img src="https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white">
-      </a>
-      <br><br>
-      <a href="https://stars.github.com/nominate">
-        <img src="https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge">
-      </a>
-      <br><br>
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" width="100%">
-      </a>
+    <td width="60%" valign="middle" style="padding-right: 25px;">
+      <p style="color: #ccc; line-height: 1.7; margin-bottom: 15px; font-size: 16px;">
+        <a href="https://community.vaunt.dev/board/Discovered12345" style="text-decoration:none;">
+          <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community" alt="Vaunt Community Badge">
+        </a>
+        &nbsp;
+        <a href="https://discordapp.com/users/991028855542284288" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Badge">
+        </a>
+        &nbsp;
+        <a href="https://instagram.com/andrew.m_91" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white" alt="Instagram Badge">
+        </a>
+      </p>
+      <p style="margin-bottom: 15px;">
+        <a href="https://stars.github.com/nominate" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge" alt="Nominate Badge">
+        </a>
+      </p>
+      <p>
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true" style="text-decoration:none;">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile" style="max-width: 100%; border-radius: 8px;">
+        </a>
+      </p>
     </td>
-    <!-- RIGHT GIF -->
-    <td width="25%" align="right" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" width="160">
+    <!-- RIGHT SIDE: Your GIF -->
+    <td width="40%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" width="100%" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.6); border: 1px solid #333;">
     </td>
   </tr>
 </table>
+
+
 
 
 
