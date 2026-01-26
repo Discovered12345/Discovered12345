@@ -15,20 +15,39 @@
 <!-- **I'm a passionate and driven developer with a strong interest in building innovative solutions through code. As a sophomore at Tesla STEM High School, I’m constantly exploring new technologies and expanding my skill set across a wide range of programming languages and platforms. I love creating web applications, mobile apps, or experimenting with cutting-edge tech, and outside the classroom, I’m an active member for Sno-King Ice Hockey. Hockey has taught me perseverance, leadership, and the importance of collaboration—qualities that I bring to every project I work on. Whether I’m writing code, skating on the rink, or diving into a new tech trend, I’m always looking for opportunities to grow, challenge myself, and make a meaningful impact.** -->
 <!-- https://skillicons.dev/ -->
 </div>
-  
-[![Vaunt Community](https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community)](https://community.vaunt.dev/board/Discovered12345) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/991028855542284288) [![Instagram](https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white)](https://instagram.com/andrew.m_91)
 
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)
+<table width="100%">
+  <tr>
+    <!-- LEFT CONTENT -->
+    <td width="75%" valign="top">
+      <a href="https://community.vaunt.dev/board/Discovered12345">
+        <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community">
+      </a>
+      <a href="https://discordapp.com/users/991028855542284288">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+      </a>
+      <a href="https://instagram.com/andrew.m_91">
+        <img src="https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white">
+      </a>
+      <br><br>
+      <a href="https://stars.github.com/nominate">
+        <img src="https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge">
+      </a>
+      <br><br>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" width="100%">
+      </a>
+    </td>
+    <!-- RIGHT GIF -->
+    <td width="25%" align="right" valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" width="160">
+    </td>
+  </tr>
+</table>
 
-[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=313e3pkwhiplnzbr4q2bphmlnqdu&redirect=true)
 
-<!-- <a href="https://gitroll.io/profile/uhflzEggAGjWRfgdbU8KMQYp2wBo2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhflzEggAGjWRfgdbU8KMQYp2wBo2?theme=light" alt="GitRoll Profile Badge"/></a> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" width="160" />
-
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Arsenal -->
 <div align="center">
