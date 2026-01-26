@@ -5,8 +5,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" width="160" />
-
 
 <!-- <a href="https://app.daily.dev/andrewma"><img src="https://api.daily.dev/devcards/v2/dup6YE036HUpDsHygeXyu.png?type=default&r=wii" width="356" alt="Andrew M's Dev Card" align="right"/></a> -->
 
@@ -26,9 +24,13 @@
 
 <!-- <a href="https://gitroll.io/profile/uhflzEggAGjWRfgdbU8KMQYp2wBo2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uhflzEggAGjWRfgdbU8KMQYp2wBo2?theme=light" alt="GitRoll Profile Badge"/></a> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/216654141-4aa6ba4c-aa36-481a-bb65-56ee85d87de3.gif" width="160" />
 
-<!-- Tech Stack -->
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- Tech Arsenal -->
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> Tech Stack:
