@@ -19,19 +19,13 @@
 <table border="0" align="center" cellspacing="0" cellpadding="0" width="100%" style="max-width: 1200px;">
   <tr>
     <td width="60%" valign="middle" style="padding-right: 25px;">
-      <p style="color: #ccc; line-height: 1.7; margin-bottom: 15px; font-size: 16px;">
-        <a href="https://community.vaunt.dev/board/Discovered12345" style="text-decoration:none;">
-          <img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community" alt="Vaunt Community Badge">
-        </a>
-        &nbsp;
-        <a href="https://discordapp.com/users/991028855542284288" style="text-decoration:none;">
-          <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Badge">
-        </a>
-        &nbsp;
-        <a href="https://instagram.com/andrew.m_91" style="text-decoration:none;">
-          <img src="https://img.shields.io/badge/Instagram-%237289DA.svg?logo=instagram&logoColor=white" alt="Instagram Badge">
-        </a>
-      </p>
+       <div style="display: flex; gap: 10px; margin-top: 20px;">
+        <a href="https://discordapp.com/users/991028855542284288"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white&color=black" height="25"></a>
+        <a href="https://instagram.com/andrew.m_91"><img src="https://img.shields.io/badge/Instagram-%237289DA.svg?color=black&style=flat-square&logo=instagram&logoColor=white" height="25"></a>
+        <a href="https://community.vaunt.dev/board/Discovered12345"><img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community?color=black&style=flat-square&logo=vaunt&logoColor=white" height="25"></a>
+        </div>
+      <!-- -->
+      <!-- -->
       <p style="margin-bottom: 15px;">
         <a href="https://stars.github.com/nominate" style="text-decoration:none;">
           <img src="https://img.shields.io/badge/Star-Nominate%20@discovered12345-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge" alt="Nominate Badge">
