@@ -18,7 +18,7 @@
     <td width="60%" valign="middle" style="padding-right: 25px;">
        <div style="display: flex; gap: 10px; margin-top: 20px;">
         <a href="https://discordapp.com/users/991028855542284288"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white&color=black" height="25"></a>
-        <a href="https://instagram.com/andrew.m_91"><img src="https://img.shields.io/badge/Instagram-%237289DA.svg?color=black&style=flat-square&logo=instagram&logoColor=white" height="25"></a>
+        <a href="https://instagram.com/andrew.m_91"><img src="https://img.shields.io/badge/Instagram-%237289DA.svg?color=yellow&style=flat-square&logo=instagram&logoColor=white" height="25"></a>
         <a href="https://community.vaunt.dev/board/Discovered12345"><img src="https://api.vaunt.dev/v1/github/entities/Discovered12345/badges/community?color=black&style=flat-square&logo=vaunt&logoColor=white" height="25"></a>
         </div>
       <!-- -->
